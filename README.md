@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Fuying 👋
 
-<!--
-**cloudsclouds/cloudsclouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack Engineer | AI Agent Developer
 
-Here are some ideas to get you started:
+I'm a software engineering master's student interested in building practical AI-powered products and reliable full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experienced in frontend development with React, Vue, and TypeScript
+- Hands-on experience building AI coding workflows, collaborative editing, and RAG applications
+- Interested in streaming AI experiences, agent tools, and developer productivity
+
+## 🎓 Education
+
+- M.S. in Software Engineering, China University of Mining and Technology
+
+
+## 📫 Contact
+
+- Email: 528319209@qq.com
+- GitHub: [@cloudsclouds](https://github.com/cloudsclouds)
+
+## ⚡ Fun Fact
+
+I enjoy playing badminton.
