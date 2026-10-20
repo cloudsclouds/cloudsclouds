@@ -12,12 +12,7 @@ I'm a software engineering master's student interested in building practical AI-
 
 - M.S. in Software Engineering, China University of Mining and Technology
 
-
 ## 📫 Contact
 
 - Email: 528319209@qq.com
 - GitHub: [@cloudsclouds](https://github.com/cloudsclouds)
-
-## ⚡ Fun Fact
-
-I enjoy playing badminton.
